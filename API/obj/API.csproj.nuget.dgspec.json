@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/airacalins/Documents/Personal Projects/e-commerce-api/API/API.csproj": {}
+    "/Users/airacalins/Documents/GitHub/e-commerce-api/API/API.csproj": {}
   },
   "projects": {
-    "/Users/airacalins/Documents/Personal Projects/e-commerce-api/API/API.csproj": {
+    "/Users/airacalins/Documents/GitHub/e-commerce-api/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/airacalins/Documents/Personal Projects/e-commerce-api/API/API.csproj",
+        "projectUniqueName": "/Users/airacalins/Documents/GitHub/e-commerce-api/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/airacalins/Documents/Personal Projects/e-commerce-api/API/API.csproj",
+        "projectPath": "/Users/airacalins/Documents/GitHub/e-commerce-api/API/API.csproj",
         "packagesPath": "/Users/airacalins/.nuget/packages/",
-        "outputPath": "/Users/airacalins/Documents/Personal Projects/e-commerce-api/API/obj/",
+        "outputPath": "/Users/airacalins/Documents/GitHub/e-commerce-api/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/airacalins/.nuget/NuGet/NuGet.Config"
@@ -39,6 +39,8 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.8, )"
             },
