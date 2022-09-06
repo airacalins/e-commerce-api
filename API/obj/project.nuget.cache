@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RDuQ8qKcTUaYKxbnTgGh/0xRaTzCzF1g6QClAkdlyey1r+OYAVtc42lSj5nQ0UJhcmzWlCKK15tgu6Iu/XWC5Q==",
+  "dgSpecHash": "DsgxD3AAvRFndqnsiLP19IEXdtLnXJlqH6vD6NlpJyKjalpe1lLyILUb9jkjR2lwRSaLlK4kpRypM0DLZvzXDg==",
   "success": true,
-  "projectFilePath": "/Users/airacalins/Documents/Personal Projects/e-commerce-api/API/API.csproj",
+  "projectFilePath": "/Users/airacalins/Documents/GitHub/e-commerce-api/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/airacalins/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/airacalins/.nuget/packages/microsoft.data.sqlite.core/6.0.8/microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
